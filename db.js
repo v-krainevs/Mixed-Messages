@@ -1,0 +1,40 @@
+const full_name = {
+  name: [
+    "Umniy",
+    "Legkiy",
+    "Sladenkiy",
+    "Graciozniy",
+    "Stilniy",
+    "Kaprizniy",
+    "Miliy",
+    "Luchezarniy",
+    "Moguchiy",
+    "Zastenchiviy",
+  ],
+  surname: [
+    "Krot",
+    "Zaya",
+    "Kaktus",
+    "Personazh",
+    "Doshik",
+    "Bloger",
+    "Puhlja",
+    "Kotja",
+    "Aljfach",
+    "Ponchik",
+  ],
+  patronymic: [
+    "V krosah",
+    "Na pozitive",
+    "Na drajve",
+    "Na nervah",
+    "Na labutenah",
+    "Na sporte",
+    "S espresso",
+    "V pechali",
+    "Na stile",
+    "V problemah",
+  ],
+};
+
+module.exports.full_name = full_name;
